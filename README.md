@@ -7,7 +7,7 @@
 
 ### :fire: About Me :
 - 💻 I'm a Software Engineering student at Tampere University of Applied Sciences (TAMK)
-- :zap: In my free time, I play guitar and program my own projects.
+- :zap: In my free time, I like to play around with arduino and work on my own software projects.
 
 ---
 
