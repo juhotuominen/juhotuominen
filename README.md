@@ -7,7 +7,6 @@
 
 ### :fire: About Me :
 - 💻 I'm a Software Engineering student at Tampere University of Applied Sciences (TAMK)
-- :zap: Currently working on becoming FullStack developer.
 
 ---
 
