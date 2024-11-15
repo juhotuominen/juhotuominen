@@ -6,7 +6,7 @@
 ---
 
 ### :fire: About Me :
-- 💻 I'm a Software Engineering student at Tampere University of Applied Sciences (TAMK)
+- 💻 I'm a Software Engineer from Tampere, Finland.
 
 ---
 
