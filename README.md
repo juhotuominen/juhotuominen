@@ -10,10 +10,6 @@
 
 ---
 
-
-
----
-
 ### :hammer_and_wrench: My usual working stack :
 
 <div>
